@@ -10,6 +10,10 @@ Go to http://localhost:8080/docs.
 
 This contains the documentation of the APIs exposed and way to execute APIs.
 
+Following are the APIs
+
+![](.README_images/bookserviceapis.png)
+
 
 
 
